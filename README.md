@@ -15,4 +15,4 @@ A simple Student Management System built using Spring Boot and MySQL.
 - Spring Boot
 - Spring Data JPA
 - MySQL
-- HTML, CSS, JavaScript
+- HTML, CSS
